@@ -1,0 +1,33 @@
+Online Compiler Project
+
+Frontend: Angular/React
+Backend: Node JS.
+Database: Mongo DB/ SQL/ Postgres SQL.
+
+
+Features:
+
+1. Compile Code with Multiple Programming languages. (C, C++, Java, Javascript, Python).
+2. Share written code with login/without login.
+3. Login (Social Media Login like Facebook/Gmail/Github) or Normal Login Via username & password.
+4. Registration.
+5. Code Save. (Login Permanently Save/ without login temporary save).
+6. Code Formatter. (Beautify your Code).
+7. Code Download.
+8. Code editor Light/Dark View, Full Screen, Step Revert.
+
+
+Compiler Library:
+
+APIS: https://github.com/dms24081999/Online-Compiler-Django
+
+https://www.npmjs.com/package/prettier
+
+https://github.com/Jaagrav/CodeX
+
+
+
+
+
+
+
